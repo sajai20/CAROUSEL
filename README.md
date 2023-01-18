@@ -1,6 +1,6 @@
 #CAROUSEL
 
-[]()
+[https://carouselsajai.netlify.app/]https://carouselsajai.netlify.app/)
 
 ###project details
 
